@@ -11,7 +11,9 @@ Passionate about high-performance & real-time systems. Interested in low-level a
 ---
 
 ### Contact
-📬 [jhosein58@gmail.com](mailto:jhosein58@gmail.com)
+📬 [jhosein58@gmail.com](mailto:jhosein58@gmail.com)  
+💼 [LinkedIn](https://linkedin.com/in/hosein-jalili-008898420)  
+💬 [Telegram](https://t.me/jhosein_58)
 
 ---
 
