@@ -16,14 +16,18 @@ Passionate about high-performance & real-time systems. Interested in low-level a
 ---
 
 ### Contact
+
 <p align="left">
-  <a href="mailto:jhosein58@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jhosein58%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:jhosein58@gmail.com" title="Email">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" height="28" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/hosein-jalili-008898420">
-    <img src="https://img.shields.io/badge/LinkedIn-Hosein%20Jalili-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  &nbsp;
+  <a href="https://linkedin.com/in/hosein-jalili-008898420" title="LinkedIn">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" height="28" alt="LinkedIn" />
   </a>
-  <a href="https://t.me/jhosein_58">
-    <img src="https://img.shields.io/badge/Telegram-%40jhosein__58-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  &nbsp;
+  <a href="https://t.me/jhosein_58" title="Telegram">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="28" height="28" alt="Telegram" />
   </a>
 </p>
+
