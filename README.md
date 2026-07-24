@@ -1,12 +1,17 @@
 # Hi, I'm Hosein 👋
 
-Building fast, low-level systems in Rust and Lua. Exploring real-time architecture, SIMD, and virtual machines.
+Passionate about high-performance & real-time systems. Interested in low-level architecture, SIMD, and virtual machines.
 
 ---
 
 ### Tech Stack
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua)
+
+---
+
+### Contact
+📬 [jhosein58@gmail.com](mailto:jhosein58@gmail.com)
 
 ---
 
