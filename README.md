@@ -13,21 +13,17 @@ Passionate about high-performance & real-time systems. Interested in low-level a
   <img src="https://streak-stats.demolab.com?user=jhosein58&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
 
 ### Contact
 
 <p align="left">
-  <a href="mailto:jhosein58@gmail.com" title="Email">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" height="28" alt="Email" />
+  <a href="mailto:jhosein58@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/hosein-jalili-008898420" title="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" height="28" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/hosein-jalili-008898420">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;
-  <a href="https://t.me/jhosein_58" title="Telegram">
-    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="28" height="28" alt="Telegram" />
+  <a href="https://t.me/jhosein_58">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
-
