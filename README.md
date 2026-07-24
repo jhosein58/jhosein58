@@ -2,11 +2,15 @@
 
 Passionate about high-performance & real-time systems. Interested in low-level architecture, SIMD, and virtual machines.
 
----
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust) 
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua) 
+![Profile Views](https://komarev.com/ghpvc/?username=jhosein58&color=000000&style=flat-square)
 
-### Tech Stack
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua)
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jhosein58&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -14,13 +18,4 @@ Passionate about high-performance & real-time systems. Interested in low-level a
 📬 [jhosein58@gmail.com](mailto:jhosein58@gmail.com)  
 💼 [LinkedIn](https://linkedin.com/in/hosein-jalili-008898420)  
 💬 [Telegram](https://t.me/jhosein_58)
-
----
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jhosein58&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jhosein58&color=000000&style=flat-square" alt="Profile Views" />
 </p>
